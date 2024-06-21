@@ -1,0 +1,356 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+weddingplanner
+</name>
+</assembly>
+<members>
+<member name="T:wedding_planner.database1DataSet2.TransIDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2.TransIDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2.TransIDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2TableAdapters.TransIDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(wedding_planner.database1DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(wedding_planner.database1DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(wedding_planner.database1DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.UpdateAll(wedding_planner.database1DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:wedding_planner.database1DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.AdminLoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.BookingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.CustomerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.DateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.DecorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.PhotographyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.VenueDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.AdminLoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.BookingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.CustomerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.DateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.DecorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.PhotographyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.VenueRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.AdminLoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.BookingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.CustomerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.DateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.DecorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.PhotographyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet.VenueRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.AdminLoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.BookingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.CustomerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.DateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.DecorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.PhotographyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.VenueTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(wedding_planner.database1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(wedding_planner.database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(wedding_planner.database1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.UpdateAll(wedding_planner.database1DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:wedding_planner.database1DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1.BookingsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1.BookingsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1.BookingsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1TableAdapters.BookingsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(wedding_planner.database1DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(wedding_planner.database1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(wedding_planner.database1DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.UpdateAll(wedding_planner.database1DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:wedding_planner.database1DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._1200px_MasterCard_Logo_svg">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._179_1795386_patient_success_success_icon_png_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._269_2697881_computer_icons_user_clip_art_transparent_png_icon_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._269_2697881_computer_icons_user_clip_art_transparent_png_icon_removebg_preview1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._614_6141793_planning_icon_png_test_transparent_png_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._677910">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources._779342">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Arrow_Left_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Arrow_Left_removebg_preview1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Arrow_Left_removebg_preview2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Arrow_Righ_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.bang1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.bb2d3d28e3421d901d8d431c33f0c6ed_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.desk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.PaynOw_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.png_clipart_visa_logo_credit_card_debit_card_payment_card_bank_visa_blue_text_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.pngtree_black_lock_icon_image_1130364">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Rupay_Logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:wedding_planner.My.Resources.Resources.Studio_Project">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:wedding_planner.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

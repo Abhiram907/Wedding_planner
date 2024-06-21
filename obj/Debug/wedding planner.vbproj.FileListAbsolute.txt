@@ -1,0 +1,40 @@
+c:\users\abhiram nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\bin\Debug\wedding planner.exe.config
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Login.resources
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Signup.resources
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Resources.resources
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding planner.vbproj.GenerateResource.Cache
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\bin\Debug\wedding planner.exe
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\bin\Debug\wedding planner.pdb
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\bin\Debug\wedding planner.xml
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding planner.exe
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding planner.xml
+C:\Users\Abhiram Nair\documents\visual studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding planner.pdb
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Main.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Homepage.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.venue2.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Venues.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.venue1.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AdminDash.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AdminDashboard.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AddVenue.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AddDecor.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Decor2.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Decors.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Decors1.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AddPhotography.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Photography.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Photography1.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Bill.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Payment.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.PaymentGate.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AddCatering.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.AddMakeup.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Report.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.ForgetPass.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Feedback.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Makeup.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Makeup1.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Makeup2.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Catering.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Catering1.resources
+C:\Users\Abhiram Nair\Documents\Visual Studio 2012\Projects\wedding planner\wedding planner\obj\Debug\wedding_planner.Catering2.resources
